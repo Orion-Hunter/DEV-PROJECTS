@@ -1,4 +1,4 @@
-# fabricio_desenvolvimento
+# DEV
 Repositório que reúne meus projetos em desenvolvimento de software tais como APIs, frontend, scripts, etc.
 
 1 - [QRCODEGENERATOR](https://github.com/Orion-Hunter/qrcodegenerator)
